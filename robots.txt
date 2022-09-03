@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://julaxe.github.io/sitemap.xml
+Host: https://julaxe.github.io
